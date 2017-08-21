@@ -11,15 +11,10 @@ The examples were written in Python 3.6, and require the following libraries to 
 
 ## Example one: Using Excel to prep a PBC TB for import
 
-Take an example of a trial balance formatted like this:
-<br>
-PBC File:
----
+### Take an example of a trial balance formatted like this:
 ![pbc tb](https://github.com/danshorstein/ficpa_article/blob/master/images/pbc_tb.png)
 
-After running tb.py, the output file includes a new tab with this data:<br>
-Output File:
----
+### After running tb.py, the output file includes a new tab with this data:<br>
 ![import tb](https://github.com/danshorstein/ficpa_article/blob/master/images/output.png)
 
 ## Example two: Scraping the web
