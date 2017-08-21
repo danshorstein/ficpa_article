@@ -13,7 +13,7 @@ The examples were written in Python 3.6, and require the following libraries to 
 
 Take an example of a trial balance formatted like this:
 <br>
-![pbc tb](https://github.com/danshorstein/ficpa_article/blob/master/images/pbc.png)
+![pbc tb](https://github.com/danshorstein/ficpa_article/blob/master/images/pbc_tb.png)
 
 After running tb.py, the output file includes a new tab with this data:
  
