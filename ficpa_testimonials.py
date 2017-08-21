@@ -9,7 +9,7 @@ testimonials = soup.find_all('div', class_='testimonial-wrapper')
 
 for testimonial in testimonials[:3]:
     author = testimonial.find(class_='testimonial-author').get_text()
-    exerpt = testimonial.get_text().lstrip()
+    excerpt = testimonial.get_text().lstrip()
     print('Author: {}'.format(author))
-    print('Exerpt: {}'.format(exerpt[:60]))
+    print('Exerpt: {}'.format(excerpt[:60]))
     print('-------------------------------------------------------------------')
