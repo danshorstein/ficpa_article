@@ -13,11 +13,11 @@ The examples were written in Python 3.6, and require the following libraries to 
 
 Take an example of a trial balance formatted like this:
 <br>
-![Image of Yaktocat](\images\pbc.png)
+![pbc tb](https://github.com/danshorstein/ficpa_article/blob/master/images/pbc.png)
 
 After running tb.py, the output file includes a new tab with this data:
  
-![Image of Yaktocat](\images\output.png)
+![import tb](https://github.com/danshorstein/ficpa_article/blob/master/images/output.png)
 
 ## Example two: Scraping the web
 
@@ -41,12 +41,12 @@ for testimonial in testimonials[:3]:
 ~~~~
 The resulting output is:<br>
 Author: Christopher J. Baker, CPA  — Baker DMM, LLC <br>
-Excerpt: Joining the FICPA and having the chance to participate in th
--------------------------------------------------------------------
+Excerpt: Joining the FICPA and having the chance to participate in th<br>
+-------------------------------------------------------------------<br>
 Author: Yanick J. Michel  — Y. J. Michel & Associates, PA, CPA <br>
-Excerpt: I will always feel honored to be able to contribute – and be
--------------------------------------------------------------------
+Excerpt: I will always feel honored to be able to contribute – and be<br>
+-------------------------------------------------------------------<br>
 Author: Karena S. Thomas  — PPI Technologies GROUP <br>
-Excerpt: I recently attended the 2014 University of South Florida Acc
--------------------------------------------------------------------
+Excerpt: I recently attended the 2014 University of South Florida Acc<br>
+-------------------------------------------------------------------<br>
 
