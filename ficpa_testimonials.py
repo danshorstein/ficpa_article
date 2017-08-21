@@ -11,5 +11,5 @@ for testimonial in testimonials[:3]:
     author = testimonial.find(class_='testimonial-author').get_text()
     excerpt = testimonial.get_text().lstrip()
     print('Author: {}'.format(author))
-    print('Exerpt: {}'.format(excerpt[:60]))
+    print('Excerpt: {}'.format(excerpt[:60]))
     print('-------------------------------------------------------------------')
