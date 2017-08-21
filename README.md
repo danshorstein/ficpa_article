@@ -13,10 +13,11 @@ The examples were written in Python 3.6, and require the following libraries to 
 
 Take an example of a trial balance formatted like this:
 <br>
+PBC File:
 ![pbc tb](https://github.com/danshorstein/ficpa_article/blob/master/images/pbc_tb.png)
 
 After running tb.py, the output file includes a new tab with this data:
- 
+Output File:
 ![import tb](https://github.com/danshorstein/ficpa_article/blob/master/images/output.png)
 
 ## Example two: Scraping the web
@@ -39,7 +40,7 @@ for testimonial in testimonials[:3]:
     print('Exerpt: {}'.format(excerpt[:60]))
     print('-------------------------------------------------------------------')
 ~~~~
-The resulting output is:<br>
+An example of resulting output is:<br>
 Author: Christopher J. Baker, CPA  — Baker DMM, LLC <br>
 Excerpt: Joining the FICPA and having the chance to participate in th<br>
 -------------------------------------------------------------------<br>
