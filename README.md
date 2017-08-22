@@ -61,4 +61,4 @@ This example uses the PDF file from https://www.opm.gov/policy-data-oversight/da
 ![pdf table](https://github.com/danshorstein/ficpa_article/blob/master/images/example_3/pdf_table.png)
 
 Using the Python code in example 3, the output looks like this:
-![pdf table output](https://github.com/danshorstein/ficpa_article/blob/master/images/example_3/pdf_table_output.png)
+![pdf table output](https://github.com/danshorstein/ficpa_article/blob/master/images/example_3/pdf_table_csv.png)
