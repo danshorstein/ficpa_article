@@ -18,7 +18,7 @@ This example shows the use of openpyxl to read in the PBC trial balance, clean i
 ### Take an example of a trial balance formatted like this:
 ![pbc tb](https://github.com/danshorstein/ficpa_article/blob/master/images/example_1/pbc_tb.png)
 
-### After running tb.py, the output file includes a new tab with this data:<br>
+### After running example_1_tb.py, the output file includes a new tab with this data:<br>
 ![import tb](https://github.com/danshorstein/ficpa_article/blob/master/images/example_1/output.png)
 
 ## Example 2: Scraping the web
