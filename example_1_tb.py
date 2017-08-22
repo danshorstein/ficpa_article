@@ -34,4 +34,5 @@ for num, (gl, desc, net) in enumerate(import_tb):
     import_sheet['B' + str(num + 1)].value = desc
     import_sheet['C' + str(num + 1)].value = net
 
+# Save to a new file
 wb.save(r'excel\tb_import.xlsx')
