@@ -7,6 +7,8 @@ The examples were written in Python 3.6, and require the following libraries to 
 <li>requests</li>
 <li>beautiful soup</li>
 <li>openpyxl</li>
+<li>pandas</li>
+<li>pdfplumber</li>
 </ul>
 
 ## Example 1: Using Excel to prep a PBC TB for import
