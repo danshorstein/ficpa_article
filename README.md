@@ -45,13 +45,13 @@ for testimonial in testimonials[:3]:
     print('-------------------------------------------------------------------')
 ~~~~
 An example of resulting output is:<br>
-Author: Christopher J. Baker, CPA  — Baker DMM, LLC <br>
+Author: John Smith, CPA — Smith & Smith, LLC <br>
 Excerpt: Joining the FICPA and having the chance to participate in th<br>
 -------------------------------------------------------------------<br>
-Author: Yanick J. Michel  — Y. J. Michel & Associates, PA, CPA <br>
+Author: Jamie J. Johnson — J. J. Johnson & Associates, PA, CPA <br>
 Excerpt: I will always feel honored to be able to contribute – and be<br>
 -------------------------------------------------------------------<br>
-Author: Karena S. Thomas  — PPI Technologies GROUP <br>
+Author: Bobby L. O’Charley — Longfellow Consulting Group<br>
 Excerpt: I recently attended the 2014 University of South Florida Acc<br>
 -------------------------------------------------------------------<br>
 
